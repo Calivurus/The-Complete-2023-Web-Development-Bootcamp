@@ -1,0 +1,18 @@
+/**/
+h1{
+  font-family: 'Libre Baskerville', serif;
+  text-transform: uppercase;
+}
+body{
+  background-color: black;
+  color: antiquewhite;
+  text-align: center;
+}
+#dragongirl{
+  border: 10px solid white;
+  height: fit-content;
+  width: fit-content;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
